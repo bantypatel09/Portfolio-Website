@@ -82,6 +82,9 @@ export default class Projects extends Component {
                 Provides a deeper insight of who I am and serves as a showcase for all my CS work
               </li>
             </ul>
+            <a href="https://github.com/bantypatel09/Portfolio-Website" target="_blank" rel="noopener noreferrer"> 
+              <img class="image-github" src={github} alt=""></img>
+            </a>  
           </Jumbotron>
           <Jumbotron>
             <h4>GIT Replica</h4>
