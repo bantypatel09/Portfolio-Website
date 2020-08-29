@@ -11,7 +11,6 @@ export default class HomePage extends Component {
           <Jumbotron>
               <h3>Contact me</h3>
               <p>Email: bantypatel8242217@gmail.com</p>
-              <h3>Check me out on social media</h3>
           </Jumbotron>
         </Container>
       </div>
